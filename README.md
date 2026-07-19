@@ -11,7 +11,7 @@ During this program I am learning:
 - JavaScript
 - Python
 - Git
-- Fast Api
+- Fetch Api
 - Django
 
 
@@ -37,3 +37,16 @@ During this program I am learning:
 - DOM
 - Events
 - Fetch API
+
+
+## Week 3
+
+### Python
+
+- Variables
+- Functions
+- Loops
+- Lists
+- Dictionaries
+- OOP
+- File Handling
