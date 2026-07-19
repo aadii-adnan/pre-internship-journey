@@ -24,3 +24,16 @@ During this program I am learning:
 - Learned Flexbox
 - Learned CSS Grid
 - Learned Responsive Design
+
+
+## Week 2
+
+### JavaScript
+
+- Variables
+- Functions
+- Arrays
+- Objects
+- DOM
+- Events
+- Fetch API
