@@ -50,3 +50,15 @@ During this program I am learning:
 - Dictionaries
 - OOP
 - File Handling
+
+## Week 4
+
+### Git
+
+- Git status
+- Git add
+- Git commit
+- Git push
+- Git pull
+- Git branches
+- Pull Requests
